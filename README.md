@@ -1,2 +1,2 @@
-# python-programs
-Here are some basic programs written in Python programming language.
+# Python Programs
+Here are some basic programs written in the Python programming language.
